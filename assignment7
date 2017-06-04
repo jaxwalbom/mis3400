@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="author" content="jacquelyn walbom">
+		<meta name=keywords" content= "toys, children, retro, 	puzzles, collectibles, pull-toys, stackable toys">
+		<meta name= "description" content= "Retro toys that are collectible and hard to find">
+		<title> Ty's Toys, The Premier toy store for collectible toys <title/>
+			<link rel="stylesheet" href= toystyle.css" type=text/css">
+	</head>
+
+	<body>
+		<table>
+		<table class= "cetner">
+			<tr>
+				<td>
+				<img src"images/headertoys.jpg" width="237" height="199" alt="Toys fomr the 60s and 70s" style="text-align: left;">
+
+				</td>
+				<td>
+				<img src="images/tystoys.gif" width="229" height="52" alt="Tys Toys, where retro toys are found">
+				<br>
+				<img src="images/puzzles_menu.gif" width="80" height="49" alt="Puzzles for Kids" style="float: left;">
+				<img src="images/collectibles_menu.gif" width="109" height="49" alt="Toy collectibles" style="float: left;">
+				<img src="images/pulltoys_menu.gif" width="97" height="49" alt="Toys to pull around" style="float: left;">
+				<img src="images/rideable_menu.gif" width="127" height="49" alt="Retro ride toys" style="float: left;">
+				<img src="images/stackable_menu.gif" width="122" height="49" alt="stakable toys" style="float: left;">
+
+				</td>
+					
+			</tr>
+
+			<tr>
+					<td colspan="2">
+					<table style="width:70%;">
+					<tr>
+						<td>
+						<img src="images/mrpotato.jpg" width="180" height="200" alt="The original Mr. Potato Head">	
+						</td>
+
+						<td>
+						<h1> Collectibles </h1>
+						<hr style="color:#e60000; width:150px;">
+						<h2> Mr. Potato Head </h2>
+						Description here so it takes up 3 lines.
+						<br>
+						$19.99
+						<br>
+						<form>
+						<input type="submit" value="Add to Cart"></form>
+					</td>
+
+			</tr>
+			<tr>
+				<td>
+					<img src="images/recordplayer.jpg" width="180" height="200" alt="Fisher Price retro record player">
+					</td>
+
+					<td>
+					<h2> Fisher Price Record PLayer </h2>
+					Description here so it takes up three lines.
+					<br>
+					$19.99
+					<br>
+					<form>
+					<input type="submit" value="Add to Cart">
+					</form>
+					</td>
+
+					</tr>
+
+				</table>
+
+
+    </body>
+</html>
